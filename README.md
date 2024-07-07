@@ -1,6 +1,6 @@
 # Projeto 1 - Sistema de Cadastro de Usuários
 
-Este projeto é uma aplicação web simples para cadastrar e exibir usuários utilizando HTML, CSS (via Bootstrap) e JavaScript. Os dados dos usuários são armazenados no `localStorage` do navegador.
+Este projeto desenvolvido por Israe Macedo, este projeto é uma aplicação web simples para cadastrar e exibir usuários utilizando HTML, CSS (via Bootstrap) e JavaScript. Os dados dos usuários são armazenados no `localStorage` do navegador.
 
 ## Estrutura do Projeto
 
