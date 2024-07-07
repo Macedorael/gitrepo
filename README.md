@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Usuários
+# Projeto 1 - Sistema de Cadastro de Usuários
 
 Este projeto é uma aplicação web simples para cadastrar e exibir usuários utilizando HTML, CSS (via Bootstrap) e JavaScript. Os dados dos usuários são armazenados no `localStorage` do navegador.
 
@@ -20,7 +20,7 @@ O projeto é composto por dois arquivos HTML e um arquivo JavaScript:
  
 ## Tecnologias Utilizadas
 
-HTML5
-CSS3 (Bootstrap)
-JavaScript (LocalStorage)
+* HTML5
+* CSS3 (Bootstrap)
+* JavaScript (LocalStorage)
 
